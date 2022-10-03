@@ -1,5 +1,5 @@
 # Distantly Supervised Similar Patient Case Retrieval
-This repository contains the official implementation of the paper [Interpreting Patient Descriptions using Distantly Supervised Similar Case Retrieval](add_link_here) which has been accepted by the SIGIR 2022 conference.
+This repository contains the official implementation of the paper [Interpreting Patient Descriptions using Distantly Supervised Similar Case Retrieval](https://dl.acm.org/doi/abs/10.1145/3477495.3532003) which has been accepted by the SIGIR 2022 conference.
 
 #### Requirements
 1. Text Corpus
